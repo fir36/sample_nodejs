@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2  # Checks out the repository code
+        uses: actions/checkout@v4  # Checks out the repository code
 
       - name: Run Prisma Cloud
         id: prisma-cloud
