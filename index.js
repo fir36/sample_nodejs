@@ -1,10 +1,10 @@
 const express = require('express')
 const app = express()
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3001
 
 var LoremIpsum = require('lorem-ipsum').LoremIpsum;
 
-var lorem = new LoremIpsum({
+var lorema = new LoremIpsum({
   sentencesPerParagraph: {
     max: 8,
     min: 4
