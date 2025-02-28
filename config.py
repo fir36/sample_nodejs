@@ -1,5 +1,5 @@
 # WARNING: Hardcoded credentials (should trigger Prisma Cloud)
-AWS_ACCESS_KEY_ID = "AKIAXXXXXXXXEXAMPLE"
+AWS_ACCESS_KEY_ID = "AKIAXXXXXXXXEXAkhMPLE"
 AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/EXAMPLEKEY"
 
 # API Key exposed in plain text
